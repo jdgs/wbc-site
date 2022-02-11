@@ -80,7 +80,7 @@ img
     {
          width: 30px;
         height: 30px;
-        background-color: #28a7e9;
+        background-color: #bf1313;
          margin: 0 auto;
         -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
                 animation: sk-rotatePlane 1.2s infinite ease-in-out;
@@ -120,7 +120,7 @@ img
     }
 .navbar-default .navbar-brand
     {
-        color: #876afd;
+        color: #bf1313;
         font-size: 30px;
         font-weight: bold;
         height: 70px;
@@ -138,7 +138,7 @@ img
 .navbar-default .nav li a:focus,
 .navbar-default .nav li a.current
     {
-        color: #e96628;
+        color: #bf1313;
     }
 
 .navbar-default .navbar-toggle
@@ -181,7 +181,7 @@ img
     }
 #divider .fa
     {
-        color: #e96628;
+        color: #bf1313;
         font-size: 60px;
     }
 #divider h3
@@ -204,7 +204,7 @@ img
     }
 #feature .fa
     {
-        background: #e96628;
+        background: #bf1313;
         border-radius: 50%;
         color: #fff;
         display: inline-block;
@@ -262,7 +262,7 @@ img
     }
 #pricing .pricing .pricing-title
     {
-        background: #a95229;
+        background: #bf1313;
         color: #fff;
         font-weight: bold;
         padding: 30px;
@@ -288,7 +288,7 @@ img
         background: transparent;
         border: 1px solid #ea7035;
         border-radius: 3px;
-        color: #e96628;
+        color: #bf1313;
         font-weight: bold;
         padding-right: 40px;
         padding-left: 40px;
@@ -297,7 +297,7 @@ img
         transition: all 0.3s ease;
     }
 #pricing .pricing .btn:hover {
-    background: #e96628;
+    background: #bf1313;
     color: #fff;
 }
 #download
@@ -330,9 +330,14 @@ img
     {
         padding-top: 20px;
     }
+#contact address a
+        {
+            color: #fff;
+            text-decoration: underline;
+        }
 #contact address .fa
     {
-        background: #e96628;
+        background: #bf1313;
         border-radius: 50%;
         width: 40px;
         height: 40px;
@@ -358,13 +363,13 @@ img
     }
 #contact input[type="submit"]
     {
-        background: #e96628;
+        background: #bf1313;
         color: #fff;
         font-weight: bold;
         transition: all 0.3s ease;
     }
 #contact input[type="submit"]:hover {
-    background: #e96628;
+    background: #bf1313;
 }
 
 footer
