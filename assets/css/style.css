@@ -155,7 +155,6 @@ img
 .navbar-default .navbar-toggle:focus { background-color: transparent }
 #home
     {
-    /* background: url('../img/contact-bg.jpg') no-repeat; */
     background-size: cover;
     color: #fff;
     margin-top: 70px;
